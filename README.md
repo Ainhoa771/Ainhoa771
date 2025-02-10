@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Hola, soy Ainhoa</h1>
+<h1 align="center"> Hola, soy Ainhoa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Here are some ideas to get you started:
+Cosas sobre mi:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
